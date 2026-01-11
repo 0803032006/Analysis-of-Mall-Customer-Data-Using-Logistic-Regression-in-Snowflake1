@@ -1,0 +1,1 @@
+# Analysis-of-Mall-Customer-Data-Using-Logistic-Regression-in-Snowflake1
